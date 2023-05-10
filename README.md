@@ -1,6 +1,5 @@
-```
+#About
 The happiest person is the lonliest one.
-```
 
 <!---
 the-charon-l/the-charon-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
